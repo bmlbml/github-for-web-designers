@@ -1,2 +1,5 @@
 # github-for-web-designers
- initial commit
+ 
+ This reference also serves as the exercise files for the course.
+ 
+ ##[View the companion reference site](-copy link from github-)
